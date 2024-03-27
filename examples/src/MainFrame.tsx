@@ -2,6 +2,7 @@ import { useState } from 'react';
 
 import { Card, Code, Flex, Heading, Text, Spinner } from '@radix-ui/themes';
 
+// dummy commit
 // 1) Import `useResizeDetector` hook from 'react-resize-detector'
 import { useResizeDetector } from './react-resize-detector';
 
