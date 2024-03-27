@@ -3,7 +3,7 @@ import { useState } from 'react';
 import { Card, Code, Flex, Heading, Text, Spinner } from '@radix-ui/themes';
 
 // 1) Import `useResizeDetector` hook from 'react-resize-detector'
-import { useResizeDetector } from 'react-resize-detector';
+import { useResizeDetector } from '../../src';
 
 import { useDemoContext } from './context';
 import { BackgroundImage } from './BackgroundImage';
